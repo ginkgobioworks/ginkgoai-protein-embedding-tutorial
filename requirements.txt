@@ -1,0 +1,9 @@
+ginkgo-ai-client
+jupyter
+numpy
+pandas
+plotly
+python-dotenv
+seaborn
+scikit-learn
+xgboost
